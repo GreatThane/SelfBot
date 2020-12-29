@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ad70bab-4464-47dc-a53f-0ad4d5e6e5ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mKGfEAwZNVjRHyig8gJmStZoBz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.11" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Users\Ethan\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\202.6948.73\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ad70bab-4464-47dc-a53f-0ad4d5e6e5ac" name="Default Changelist" comment="" />
+      <created>1609234971079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609234971079</updated>
+      <workItem from="1609234972619" duration="1917000" />
+      <workItem from="1609237129447" duration="175000" />
+      <workItem from="1609237326090" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="903" y="459" key="Github.ShareDialog" timestamp="1609237169045">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="903" y="459" key="Github.ShareDialog/-1920.350.1920.1042/2560.350.1920.1080/0.0.2048.1122@0.0.2048.1122" timestamp="1609237169045" />
+    <state x="843" y="266" key="Github.UntrackedFilesDialog" timestamp="1609236962409">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="843" y="266" key="Github.UntrackedFilesDialog/-1920.350.1920.1042/2560.350.1920.1080/0.0.2048.1122@0.0.2048.1122" timestamp="1609236962409" />
+    <state width="2027" height="309" key="GridCell.Tab.0.bottom" timestamp="1609237072487">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="2027" height="309" key="GridCell.Tab.0.bottom/-1920.350.1920.1042/2560.350.1920.1080/0.0.2048.1122@0.0.2048.1122" timestamp="1609237072487" />
+    <state width="2027" height="309" key="GridCell.Tab.0.center" timestamp="1609237072487">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="2027" height="309" key="GridCell.Tab.0.center/-1920.350.1920.1042/2560.350.1920.1080/0.0.2048.1122@0.0.2048.1122" timestamp="1609237072487" />
+    <state width="2027" height="309" key="GridCell.Tab.0.left" timestamp="1609237072487">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="2027" height="309" key="GridCell.Tab.0.left/-1920.350.1920.1042/2560.350.1920.1080/0.0.2048.1122@0.0.2048.1122" timestamp="1609237072487" />
+    <state width="2027" height="309" key="GridCell.Tab.0.right" timestamp="1609237072487">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="2027" height="309" key="GridCell.Tab.0.right/-1920.350.1920.1042/2560.350.1920.1080/0.0.2048.1122@0.0.2048.1122" timestamp="1609237072487" />
+    <state x="533" y="206" key="SettingsEditor" timestamp="1609237342251">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="533" y="206" key="SettingsEditor/-1920.350.1920.1042/2560.350.1920.1080/0.0.2048.1122@0.0.2048.1122" timestamp="1609237342251" />
+    <state x="617" y="294" key="Vcs.Push.Dialog.v2" timestamp="1609237003204">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="617" y="294" key="Vcs.Push.Dialog.v2/-1920.350.1920.1042/2560.350.1920.1080/0.0.2048.1122@0.0.2048.1122" timestamp="1609237003204" />
+  </component>
+</project>
