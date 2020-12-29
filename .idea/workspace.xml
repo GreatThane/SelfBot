@@ -35,7 +35,7 @@
     <property name="javascript.nodejs.core.library.typings.version" value="12.19.11" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="Ignore Files Support" />
     <property name="ts.external.directory.path" value="C:\Users\Ethan\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\202.6948.73\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -66,8 +66,16 @@
       <updated>1609234971079</updated>
       <workItem from="1609234972619" duration="1917000" />
       <workItem from="1609237129447" duration="175000" />
-      <workItem from="1609237326090" duration="17000" />
+      <workItem from="1609237326090" duration="503000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit.">
+      <created>1609237776811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609237776812</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,16 +85,18 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="Initial Commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="903" y="459" key="Github.ShareDialog" timestamp="1609237169045">
+    <state x="903" y="459" key="Github.ShareDialog" timestamp="1609237386548">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="903" y="459" key="Github.ShareDialog/-1920.350.1920.1042/2560.350.1920.1080/0.0.2048.1122@0.0.2048.1122" timestamp="1609237169045" />
-    <state x="843" y="266" key="Github.UntrackedFilesDialog" timestamp="1609236962409">
+    <state x="903" y="459" key="Github.ShareDialog/-1920.350.1920.1042/2560.350.1920.1080/0.0.2048.1122@0.0.2048.1122" timestamp="1609237386548" />
+    <state x="843" y="266" key="Github.UntrackedFilesDialog" timestamp="1609237393995">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="843" y="266" key="Github.UntrackedFilesDialog/-1920.350.1920.1042/2560.350.1920.1080/0.0.2048.1122@0.0.2048.1122" timestamp="1609236962409" />
+    <state x="843" y="266" key="Github.UntrackedFilesDialog/-1920.350.1920.1042/2560.350.1920.1080/0.0.2048.1122@0.0.2048.1122" timestamp="1609237393995" />
     <state width="2027" height="309" key="GridCell.Tab.0.bottom" timestamp="1609237072487">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
@@ -103,13 +113,13 @@
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state width="2027" height="309" key="GridCell.Tab.0.right/-1920.350.1920.1042/2560.350.1920.1080/0.0.2048.1122@0.0.2048.1122" timestamp="1609237072487" />
-    <state x="533" y="206" key="SettingsEditor" timestamp="1609237342251">
+    <state x="533" y="206" key="SettingsEditor" timestamp="1609237684496">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="533" y="206" key="SettingsEditor/-1920.350.1920.1042/2560.350.1920.1080/0.0.2048.1122@0.0.2048.1122" timestamp="1609237342251" />
-    <state x="617" y="294" key="Vcs.Push.Dialog.v2" timestamp="1609237003204">
+    <state x="533" y="206" key="SettingsEditor/-1920.350.1920.1042/2560.350.1920.1080/0.0.2048.1122@0.0.2048.1122" timestamp="1609237684496" />
+    <state x="617" y="294" key="Vcs.Push.Dialog.v2" timestamp="1609237786096">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="617" y="294" key="Vcs.Push.Dialog.v2/-1920.350.1920.1042/2560.350.1920.1080/0.0.2048.1122@0.0.2048.1122" timestamp="1609237003204" />
+    <state x="617" y="294" key="Vcs.Push.Dialog.v2/-1920.350.1920.1042/2560.350.1920.1080/0.0.2048.1122@0.0.2048.1122" timestamp="1609237786096" />
   </component>
 </project>
